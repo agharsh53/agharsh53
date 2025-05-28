@@ -43,8 +43,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/agharsh53"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="agharsh53" /></a></p><br><br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agharsh53&show_icons=true&locale=en&layout=compact" alt="agharsh53" /></p><br><br>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agharsh53&show_icons=true&locale=en&layout=compact" alt="agharsh53" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agharsh53&show_icons=true&locale=en" alt="agharsh53" /></p><br><br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agharsh53&" alt="agharsh53" /></p>
